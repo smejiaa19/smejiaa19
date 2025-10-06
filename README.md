@@ -7,4 +7,3 @@ I am a student of information systems engineering at the Universidad Americana (
 <h1>Technologies 💻</h1>
 I know nothing
 
-<h1>Matense todos</h1>
